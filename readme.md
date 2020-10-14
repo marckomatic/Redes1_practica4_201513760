@@ -114,13 +114,13 @@ Esto en los ESW1, ESW2 y ESW3</p>
 <td>VLAN Ventas</td> <td>VLAN CONTABILIDAD</td> 
 </tr>
 <tr>
-<td>IP: 192.168.10.254 </td><td>IP: 192.168.20.254 </td>
+<td>Gateway: 192.168.10.254 </td><td>Gateway: 192.168.20.254 </td>
 </tr>
 <tr>
 <td>Mascara: 255.255.255.0</td><td>Mascara: 255.255.255.0</td> 
 </tr>
 <tr>
-<td>Sub-Interface: 0/0.10 </td><td>Sub-Interface: 0/0.20</td> <td> </td>
+<td>Sub-Interface: 0/0.10 </td><td>Sub-Interface: 0/0.20</td> 
 </tr>
 </table>
 
@@ -197,9 +197,9 @@ en la red, blockea puertos/interfaces en cada dispositivo para evitar que esto o
     <li>fa 1/7 ESW2</li>
     <li>fa 1/7 ESW3 </li>
     <li>PortChannel 3 ESW3 </li>
-<ul>
+</ul>
 
-<h2>Diagrama de rutas principales </h>
+<h2>Diagrama de rutas principales </h2>
 <p> 
 El diagrama de rutas principales es el diagrama que muestra las interfaces no bloqueadas
 por el spanning-tree. El diagrama de rutas principales para nuestra red es el siguiente.
