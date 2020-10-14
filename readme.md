@@ -57,6 +57,9 @@ Esto en los ESW1, ESW2 y ESW3</p>
     <li>exit </li>
 </ol>
 
+<img src='/images/img27.png'>
+
+
 <p>Podemos ver los channel creados con el comando:</p>
 <ul>
     <li>show etherchannel port-channel</li>
