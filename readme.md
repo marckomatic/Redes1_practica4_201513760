@@ -114,13 +114,13 @@ Esto en los ESW1, ESW2 y ESW3</p>
 <td>VLAN Ventas</td> <td>VLAN CONTABILIDAD</td> 
 </tr>
 <tr>
-<td>192.168.10.254 </td><td>192.168.20.254 </td>
+<td>IP: 192.168.10.254 </td><td>IP: 192.168.20.254 </td>
 </tr>
 <tr>
-<td>Mascara 255.255.255.0</td><td> 255.255.255.0</td> 
+<td>Mascara: 255.255.255.0</td><td>Mascara: 255.255.255.0</td> 
 </tr>
 <tr>
-<td>interface 0/0.10 </td><td>interface 0/0.20</td> <td> </td>
+<td>Sub-Interface: 0/0.10 </td><td>Sub-Interface: 0/0.20</td> <td> </td>
 </tr>
 </table>
 
