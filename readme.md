@@ -205,7 +205,7 @@ El diagrama de rutas principales es el diagrama que muestra las interfaces no bl
 por el spanning-tree. El diagrama de rutas principales para nuestra red es el siguiente.
 </p>
 
-<img src='/images/img20.png'>
+<img src='/images/img21.png'>
 <h2>Captura de paquetes</h2>
 <p>Para comprobar que el diagrama de rutas principales, podemos
 poner un packet watcher en una interface bloqueada y ver si pasan paquetes
